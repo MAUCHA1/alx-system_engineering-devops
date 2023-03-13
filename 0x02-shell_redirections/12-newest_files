@@ -1,2 +1,2 @@
-#!bash/bin/
-ls -t | head
+#!bash/bash
+find . -type d -not -name | wc -l
